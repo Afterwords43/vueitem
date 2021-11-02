@@ -2,6 +2,7 @@
 <template>
 <div class='#header'>
     <h1>好谷就业力</h1>
+<h1>好谷就业力</h1>
 </div>
 </template>
 
